@@ -1,0 +1,1 @@
+cmd java -jar xadrez.jar
